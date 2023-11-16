@@ -1,8 +1,6 @@
-# Alexandria
+# Geology Management
 
-React frontend for LocalLibrary Project
-
-Author: Andrew Fallon
+React.js Javascript project for Andrew Fallon's personal website
 
 ## Run App
 
