@@ -1,4 +1,4 @@
-# Geology Management
+# Andrew Fallon's Personal Website
 
 React.js Javascript project for Andrew Fallon's personal website
 
